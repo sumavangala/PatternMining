@@ -1,0 +1,185 @@
+0.5744  processing 
+0.5744  control 
+0.5744  optimization 
+0.5744  query processing 
+0.5744  join 
+0.5744  real 
+0.5744  index 
+0.5744  memory 
+0.5744  query database 
+0.5744  scheduling 
+0.5744  transaction 
+0.5744  query optimization 
+0.5744  file 
+0.5744  real time 
+0.5744  storage 
+0.5744  query data 
+0.5744  sql 
+0.5744  server 
+0.5744  concurrency 
+0.5744  distributed database 
+0.5744  querying 
+0.5744  distributed system 
+0.5744  efficient query 
+0.5744  recovery 
+0.5744  shape 
+0.5744  xml query 
+0.5744  aggregate 
+0.5744  peer 
+0.5744  control concurrency 
+0.5744  query system 
+0.5744  optimizing 
+0.5744  sensor 
+0.5744  scalable 
+0.5744  moving 
+0.5744  self 
+0.5744  query evaluation 
+0.5744  disk 
+0.5744  data distributed 
+0.5744  query object 
+0.5744  protocol 
+0.5744  expansion 
+0.5744  xml data 
+0.5744  using query 
+0.5744  execution 
+0.5744  processor 
+0.5744  range 
+0.5744  processing data 
+0.5744  supporting 
+0.5744  stereo 
+0.5744  load 
+0.5744  caching 
+0.5744  resource 
+0.5744  warehouse 
+0.5744  nested 
+0.5744  query distributed 
+0.5744  camera 
+0.5744  surface 
+0.5744  efficient processing 
+0.5744  aggregation 
+0.5744  cache 
+0.5744  data database 
+0.5744  processing database 
+0.5744  top 
+0.5744  olap 
+0.5744  locking 
+0.5744  distributed system database 
+0.5744  efficient database 
+0.5744  object system 
+0.5744  query answering 
+0.5744  allocation 
+0.5744  routing 
+0.5744  processing system 
+0.5744  processing distributed 
+0.5744  query based 
+0.5744  query expansion 
+0.5744  control database 
+0.5744  multidimensional 
+0.5744  xpath 
+0.5744  monitoring 
+0.5744  performance database 
+0.5744  processing stream 
+0.5744  size 
+0.5744  query stream 
+0.5744  efficient xml 
+0.5744  operation 
+0.5744  recursive 
+0.5744  warehouse data 
+0.5744  materialized 
+0.5744  query view 
+0.5744  xquery 
+0.5744  sharing 
+0.5744  query continuous 
+0.5744  external 
+0.5744  object moving 
+0.5744  consistency 
+0.5744  broadcast 
+0.5744  materialized view 
+0.5744  shared 
+0.5744  hash 
+0.5744  organization 
+0.5744  client 
+0.5744  efficient query processing 
+0.5744  reconstruction 
+0.5744  replication 
+0.5744  access data 
+0.4900  distributed 
+0.4335  query 
+0.4025  parallel 
+0.3701  xml 
+0.3580  performance 
+0.3476  view 
+0.3110  access 
+0.2462  object 
+0.2076  complex 
+0.1859  spatial 
+0.1632  object database 
+0.1489  adaptive 
+0.1246  motion 
+0.1168  architecture 
+0.0820  continuous 
+0.0813  oriented object database 
+0.0722  evaluation 
+0.0640  system database 
+0.0618  update 
+0.0547  dynamic 
+0.0542  oriented object 
+0.0419  technique 
+0.0239  environment 
+0.0212  oriented database 
+0.0075  strategy 
+0.0046  management data 
+-0.0050  heterogeneous 
+-0.0172  efficient data 
+-0.0364  data system 
+-0.0384  oriented 
+-0.0556  database 
+-0.0799  efficient 
+-0.0946  management database 
+-0.0974  stream 
+-0.1118  management 
+-0.1274  management system 
+-0.1423  implementation 
+-0.1610  cost 
+-0.1627  scheme 
+-0.1672  video 
+-0.1804  structure 
+-0.1944  system 
+-0.2124  data 
+-0.2215  data stream 
+-0.2335  tracking 
+-0.2725  modeling 
+-0.2902  answering 
+-0.3537  approach 
+-0.3705  framework 
+-0.4064  multi 
+-0.4071  indexing 
+-0.4130  source 
+-0.4193  relational database 
+-0.4298  multiple 
+-0.4349  computation 
+-0.4523  integration 
+-0.4708  time 
+-0.5058  network 
+-0.5137  estimation 
+-0.5355  mobile 
+-0.5765  image 
+-0.6042  relational 
+-0.7242  matching 
+-0.8293  approximate 
+-0.8459  detection 
+-0.8510  based 
+-0.8821  method 
+-0.8939  temporal 
+-0.9069  application 
+-0.9140  analysis 
+-0.9631  design 
+-0.9822  fast 
+-1.0114  tree 
+-1.0195  probabilistic 
+-1.0610  algorithm 
+-1.1787  using 
+-1.1807  optimal 
+-1.2985  selection 
+-1.4789  constraint 
+-1.6003  model 

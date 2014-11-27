@@ -1,0 +1,178 @@
+0.0206  mining data 
+0.0179  rule association 
+0.0167  mining 
+0.0163  graph 
+0.0149  series time 
+0.0123  pattern mining 
+0.0113  mining rule association 
+0.0100  mining association 
+0.0097  mining rule 
+0.0082  mining frequent 
+0.0071  approximation algorithm 
+0.0060  preserving privacy 
+0.0052  pattern frequent 
+0.0050  association 
+0.0050  lower bound 
+0.0049  reduction dimensionality 
+0.0046  dimensional data 
+0.0043  algorithm 
+0.0043  set data 
+0.0043  approximation 
+0.0042  clustering data 
+0.0040  efficient algorithm 
+0.0040  mining algorithm 
+0.0038  pattern 
+0.0037  data privacy 
+0.0037  graph algorithm 
+0.0036  pattern sequential 
+0.0035  efficient mining 
+0.0031  pattern data 
+0.0030  search tree 
+0.0029  algorithm time 
+0.0029  mining stream 
+0.0027  algorithm fast 
+0.0026  random 
+0.0026  graph mining 
+0.0025  frequent 
+0.0024  optimal algorithm 
+0.0022  data algorithm 
+0.0022  data stream 
+0.0021  series 
+0.0021  tree algorithm 
+0.0021  search similarity 
+0.0020  mining based 
+0.0019  using mining 
+0.0016  bound 
+0.0015  data time 
+0.0014  data analysis 
+0.0013  data based 
+0.0012  metric 
+0.0011  tree data 
+0.0010  reduction 
+0.0008  path 
+0.0008  preserving 
+0.0008  clustering algorithm 
+0.0008  using data 
+0.0005  maximum 
+0.0005  minimum 
+0.0003  polynomial 
+0.0002  based algorithm 
+0.0002  sparse 
+0.0002  finding 
+0.0001  planar 
+0.0001  datasets 
+0.0000  dimensionality 
+0.0000  outlier 
+-0.0001  decision tree 
+-0.0001  lower 
+-0.0001  itemsets 
+-0.0001  massive 
+-0.0001  near 
+-0.0002  sense 
+-0.0003  optimal 
+-0.0003  discovering 
+-0.0004  dimensional 
+-0.0004  convex 
+-0.0006  approximating 
+-0.0006  improved 
+-0.0007  length 
+-0.0007  gene 
+-0.0008  bounded 
+-0.0008  closed 
+-0.0009  dimension 
+-0.0009  minimal 
+-0.0010  entropy 
+-0.0010  genetic 
+-0.0012  expression 
+-0.0012  efficient data 
+-0.0013  string 
+-0.0013  compression 
+-0.0014  sequential 
+-0.0015  partitioning 
+-0.0015  privacy 
+-0.0017  fast 
+-0.0018  binary 
+-0.0018  efficiently 
+-0.0018  free 
+-0.0018  pruning 
+-0.0020  edge 
+-0.0021  testing 
+-0.0021  weighted 
+-0.0022  geometric 
+-0.0022  map 
+-0.0023  directed 
+-0.0023  correlation 
+-0.0023  sampling 
+-0.0024  approximate 
+-0.0024  flow 
+-0.0026  distance 
+-0.0026  subspace 
+-0.0026  solution 
+-0.0028  computing 
+-0.0029  matrix 
+-0.0029  field 
+-0.0032  simple 
+-0.0033  decomposition 
+-0.0033  partial 
+-0.0033  computation 
+-0.0035  detecting 
+-0.0036  independent 
+-0.0036  event 
+-0.0038  set 
+-0.0038  construction 
+-0.0040  value 
+-0.0040  incremental 
+-0.0041  generalized 
+-0.0042  matching 
+-0.0042  induction 
+-0.0043  distribution 
+-0.0044  cluster 
+-0.0045  line 
+-0.0046  scheme 
+-0.0047  error 
+-0.0048  space 
+-0.0050  similarity 
+-0.0051  sequence 
+-0.0052  heuristic 
+-0.0054  statistical 
+-0.0054  attribute 
+-0.0056  searching 
+-0.0056  measure 
+-0.0057  complexity 
+-0.0065  extended 
+-0.0066  local 
+-0.0067  indexing 
+-0.0067  estimation 
+-0.0070  linear 
+-0.0071  function 
+-0.0071  tree 
+-0.0075  structured 
+-0.0078  rule 
+-0.0078  spatial 
+-0.0080  online 
+-0.0081  abstract 
+-0.0082  technique 
+-0.0086  time 
+-0.0092  detection 
+-0.0093  representation 
+-0.0095  parallel 
+-0.0097  discovery 
+-0.0102  temporal 
+-0.0104  stream 
+-0.0107  via 
+-0.0108  dynamic 
+-0.0108  multi 
+-0.0110  structure 
+-0.0115  decision 
+-0.0129  classification 
+-0.0131  application 
+-0.0147  constraint 
+-0.0160  method 
+-0.0203  analysis 
+-0.0208  efficient 
+-0.0211  database 
+-0.0239  clustering 
+-0.0285  data 
+-0.0297  search 
+-0.0444  using 
+-0.0445  based 

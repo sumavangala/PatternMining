@@ -1,0 +1,171 @@
+0.5828  feature 
+0.5828  recognition 
+0.5828  bayesian 
+0.5828  classifier 
+0.5828  kernel 
+0.5828  vector 
+0.5828  hierarchical 
+0.5828  combining 
+0.5828  class 
+0.5828  supervised 
+0.5828  markov 
+0.5828  semi 
+0.5828  segmentation 
+0.5828  using learning 
+0.5828  selection feature 
+0.5828  support vector 
+0.5828  nearest 
+0.5828  neighbor 
+0.5828  boosting 
+0.5828  robust 
+0.5828  neural 
+0.5828  regression 
+0.5828  machine vector 
+0.5828  variable 
+0.5828  nearest neighbor 
+0.5828  categorization 
+0.5828  using model 
+0.5828  machine support 
+0.5828  machine support vector 
+0.5828  based learning 
+0.5828  machine learning 
+0.5828  comparison 
+0.5828  ensemble 
+0.5828  text classification 
+0.5828  bayesian network 
+0.5828  model learning 
+0.5828  training 
+0.5828  supervised semi 
+0.5828  unsupervised 
+0.5828  prediction 
+0.5828  network neural 
+0.5828  mixture 
+0.5828  network learning 
+0.5828  instance 
+0.5828  using classification 
+0.5828  hidden 
+0.5828  using based 
+0.5828  hybrid 
+0.5828  example 
+0.5828  supervised learning 
+0.5828  probability 
+0.5828  active learning 
+0.5828  bayes 
+0.5828  identification 
+0.5828  using recognition 
+0.5828  using network 
+0.5828  empirical 
+0.5828  text categorization 
+0.5828  bayesian learning 
+0.5828  sensitive 
+0.5828  learning algorithm 
+0.5828  vision 
+0.5828  spectral 
+0.5828  clustering based 
+0.5828  learning classification 
+0.5828  markov model 
+0.5828  based feature 
+0.5828  structural 
+0.5828  protein 
+0.5828  multi learning 
+0.5828  discriminative 
+0.5828  model probabilistic 
+0.5828  clustering using 
+0.5828  predicting 
+0.5828  approach learning 
+0.5828  generalization 
+0.5828  using feature 
+0.5828  entity 
+0.5828  based method 
+0.5828  based classification 
+0.5828  using text 
+0.5828  learning semi 
+0.5828  feature classification 
+0.5828  component 
+0.5828  gaussian 
+0.5828  feature learning 
+0.5828  naive 
+0.5828  conditional 
+0.5828  discriminant 
+0.5828  auction 
+0.5828  model mixture 
+0.5828  parameter 
+0.5828  supervised learning semi 
+0.5828  invariant 
+0.5828  clustering hierarchical 
+0.5828  scene 
+0.5828  accuracy 
+0.5828  weighting 
+0.4504  classification 
+0.4251  selection 
+0.4008  machine 
+0.3749  support 
+0.3318  probabilistic 
+0.2970  learning 
+0.2836  using 
+0.2676  active 
+0.2329  method 
+0.2009  decision 
+0.1772  network 
+0.1749  model 
+0.1357  multiple 
+0.1220  multi 
+0.1034  via 
+0.0936  improving 
+0.0912  estimation 
+0.0790  online 
+0.0772  distribution 
+0.0672  function 
+0.0669  clustering 
+0.0407  model based 
+0.0247  analysis 
+0.0232  statistical 
+0.0202  decision tree 
+0.0177  error 
+0.0018  tracking 
+-0.0111  image 
+-0.0152  human 
+-0.0319  process 
+-0.0414  ranking 
+-0.0418  visual 
+-0.0429  induction 
+-0.0431  structure 
+-0.0606  cost 
+-0.0985  attribute 
+-0.1419  inference 
+-0.1424  approach 
+-0.1487  generalized 
+-0.1494  local 
+-0.1772  linear 
+-0.1783  line 
+-0.2020  based 
+-0.2261  text 
+-0.2277  framework 
+-0.2699  strategy 
+-0.3106  extraction 
+-0.3292  structured 
+-0.3501  detection 
+-0.3525  continuous 
+-0.3818  sequence 
+-0.4023  task 
+-0.4235  motion 
+-0.4552  value 
+-0.4676  adaptive 
+-0.4888  dynamic 
+-0.4897  study 
+-0.5520  scale 
+-0.5905  tree 
+-0.6027  automatic 
+-0.7439  space 
+-0.7853  representation 
+-0.9114  object 
+-0.9128  algorithm 
+-1.0449  performance 
+-1.0827  fast 
+-1.1308  application 
+-1.2385  document 
+-1.2418  rule 
+-1.3902  data 
+-1.4674  pattern 
+-1.4734  relational 
+-1.7018  efficient 

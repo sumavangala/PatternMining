@@ -1,0 +1,178 @@
+0.5449  graph 
+0.5449  mining data 
+0.5449  association 
+0.5449  approximation 
+0.5449  dimensional 
+0.5449  rule association 
+0.5449  random 
+0.5449  frequent 
+0.5449  finding 
+0.5449  series 
+0.5449  pattern mining 
+0.5449  path 
+0.5449  series time 
+0.5449  bound 
+0.5449  metric 
+0.5449  mining rule 
+0.5449  mining association 
+0.5449  discovering 
+0.5449  reduction 
+0.5449  preserving 
+0.5449  distance 
+0.5449  privacy 
+0.5449  mining frequent 
+0.5449  improved 
+0.5449  mining rule association 
+0.5449  cluster 
+0.5449  maximum 
+0.5449  minimum 
+0.5449  approximation algorithm 
+0.5449  sequential 
+0.5449  computing 
+0.5449  clustering data 
+0.5449  efficient algorithm 
+0.5449  expression 
+0.5449  polynomial 
+0.5449  sampling 
+0.5449  sparse 
+0.5449  dimension 
+0.5449  matrix 
+0.5449  mining algorithm 
+0.5449  set data 
+0.5449  data algorithm 
+0.5449  dimensional data 
+0.5449  planar 
+0.5449  map 
+0.5449  weighted 
+0.5449  datasets 
+0.5449  flow 
+0.5449  pattern frequent 
+0.5449  dimensionality 
+0.5449  graph algorithm 
+0.5449  simple 
+0.5449  genetic 
+0.5449  outlier 
+0.5449  data based 
+0.5449  data time 
+0.5449  preserving privacy 
+0.5449  edge 
+0.5449  free 
+0.5449  efficient mining 
+0.5449  closed 
+0.5449  approximating 
+0.5449  correlation 
+0.5449  geometric 
+0.5449  pattern data 
+0.5449  string 
+0.5449  using data 
+0.5449  bounded 
+0.5449  algorithm time 
+0.5449  lower 
+0.5449  data privacy 
+0.5449  partitioning 
+0.5449  field 
+0.5449  itemsets 
+0.5449  length 
+0.5449  binary 
+0.5449  entropy 
+0.5449  construction 
+0.5449  massive 
+0.5449  near 
+0.5449  algorithm fast 
+0.5449  event 
+0.5449  partial 
+0.5449  graph mining 
+0.5449  testing 
+0.5449  lower bound 
+0.5449  compression 
+0.5449  directed 
+0.5449  efficiently 
+0.5449  reduction dimensionality 
+0.5449  gene 
+0.5449  tree algorithm 
+0.5449  pattern sequential 
+0.5449  using mining 
+0.5449  optimal algorithm 
+0.5449  clustering algorithm 
+0.5449  mining based 
+0.5449  based algorithm 
+0.5449  minimal 
+0.5449  sense 
+0.5449  convex 
+0.5449  subspace 
+0.5449  data analysis 
+0.5449  solution 
+0.5449  detecting 
+0.5449  search similarity 
+0.5449  tree data 
+0.5449  pruning 
+0.5449  search tree 
+0.5449  mining stream 
+0.5449  independent 
+0.4370  mining 
+0.4072  pattern 
+0.3871  optimal 
+0.3353  fast 
+0.2972  approximate 
+0.2912  algorithm 
+0.2614  matching 
+0.2540  set 
+0.2365  space 
+0.1968  similarity 
+0.1748  tree 
+0.1499  time 
+0.1476  rule 
+0.1305  computation 
+0.1077  value 
+0.0650  sequence 
+0.0450  detection 
+0.0057  indexing 
+-0.0116  data stream 
+-0.0189  data 
+-0.0467  decomposition 
+-0.0609  scheme 
+-0.0846  line 
+-0.0856  linear 
+-0.1106  local 
+-0.1113  generalized 
+-0.1225  stream 
+-0.1336  incremental 
+-0.1404  efficient 
+-0.1602  attribute 
+-0.1834  measure 
+-0.2101  efficient data 
+-0.2205  induction 
+-0.2852  technique 
+-0.2952  error 
+-0.2985  decision tree 
+-0.3024  statistical 
+-0.3025  heuristic 
+-0.3030  dynamic 
+-0.3307  searching 
+-0.3638  clustering 
+-0.3643  function 
+-0.3793  distribution 
+-0.3821  online 
+-0.4009  estimation 
+-0.4040  discovery 
+-0.4205  via 
+-0.4220  analysis 
+-0.4431  complexity 
+-0.4665  application 
+-0.4718  extended 
+-0.4790  search 
+-0.5215  spatial 
+-0.5832  structure 
+-0.6001  temporal 
+-0.6026  decision 
+-0.6080  structured 
+-0.6751  method 
+-0.7952  based 
+-0.8070  abstract 
+-0.8904  using 
+-1.0227  constraint 
+-1.0480  representation 
+-1.1769  parallel 
+-1.1866  multi 
+-1.9045  classification 
+-2.0401  database 

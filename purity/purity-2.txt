@@ -1,0 +1,189 @@
+0.5606  web 
+0.5606  retrieval 
+0.5606  information retrieval 
+0.5606  user 
+0.5606  agent 
+0.5606  service 
+0.5606  natural 
+0.5606  content 
+0.5606  engine 
+0.5606  relevance 
+0.5606  term 
+0.5606  interface 
+0.5606  web search 
+0.5606  natural language 
+0.5606  context 
+0.5606  interactive 
+0.5606  filtering 
+0.5606  information system 
+0.5606  generation 
+0.5606  feedback 
+0.5606  based retrieval 
+0.5606  collaborative 
+0.5606  retrieval system 
+0.5606  document retrieval 
+0.5606  page 
+0.5606  collection 
+0.5606  engine search 
+0.5606  question 
+0.5606  result 
+0.5606  driven 
+0.5606  web service 
+0.5606  topic 
+0.5606  web based 
+0.5606  web page 
+0.5606  understanding 
+0.5606  word 
+0.5606  web semantic 
+0.5606  building 
+0.5606  social 
+0.5606  information based 
+0.5606  site 
+0.5606  theoretic 
+0.5606  cross 
+0.5606  model retrieval 
+0.5606  ontology 
+0.5606  multimedia 
+0.5606  text retrieval 
+0.5606  behavior 
+0.5606  summarization 
+0.5606  digital 
+0.5606  extracting 
+0.5606  based approach 
+0.5606  information web 
+0.5606  browsing 
+0.5606  integrated 
+0.5606  retrieval language 
+0.5606  answering question 
+0.5606  content based 
+0.5606  information retrieval system 
+0.5606  annotation 
+0.5606  information language 
+0.5606  community 
+0.5606  quality 
+0.5606  link 
+0.5606  using web 
+0.5606  image retrieval 
+0.5606  interaction 
+0.5606  generating 
+0.5606  relevance feedback 
+0.5606  information model 
+0.5606  information extraction 
+0.5606  development 
+0.5606  log 
+0.5606  filtering collaborative 
+0.5606  model language 
+0.5606  document based 
+0.5606  personalized 
+0.5606  evaluating 
+0.5606  using information 
+0.5606  web site 
+0.5606  search based 
+0.5606  corpus 
+0.5606  keyword 
+0.5606  uncertainty 
+0.5606  effective 
+0.5606  using retrieval 
+0.5606  query web 
+0.5606  search result 
+0.5606  application web 
+0.5606  news 
+0.5606  modelling 
+0.5606  web mining 
+0.5606  content retrieval 
+0.5606  music 
+0.5606  recommendation 
+0.5606  library 
+0.5606  web document 
+0.5606  information retrieval language 
+0.5606  interface user 
+0.5606  experiment 
+0.5606  internet 
+0.5606  platform 
+0.5606  grammar 
+0.5606  web user 
+0.5606  query retrieval 
+0.5606  sentence 
+0.5606  personal 
+0.5606  parsing 
+0.5606  specific 
+0.5606  cooperative 
+0.5606  navigation 
+0.5606  system language 
+0.5606  information document 
+0.4972  information 
+0.4317  semantic 
+0.3854  document 
+0.2155  language 
+0.1989  automatic 
+0.1772  robot 
+0.1760  scale 
+0.1666  search 
+0.1636  mobile 
+0.1454  study 
+0.1235  towards 
+0.0974  source 
+0.0972  task 
+0.0783  searching 
+0.0729  intelligent 
+0.0515  structured 
+0.0450  world 
+0.0390  extraction 
+0.0298  based system 
+0.0167  answering 
+-0.0076  automated 
+-0.0233  text 
+-0.0342  measure 
+-0.0429  based 
+-0.0544  technology 
+-0.0834  video 
+-0.0970  modeling 
+-0.1164  challenge 
+-0.1192  integration 
+-0.1311  approach 
+-0.1982  visual 
+-0.1987  ranking 
+-0.2040  system 
+-0.2337  indexing 
+-0.2343  image 
+-0.2379  application 
+-0.2739  strategy 
+-0.2796  analysis 
+-0.2959  environment 
+-0.3010  model based 
+-0.3624  level 
+-0.3654  evaluation 
+-0.3683  expert 
+-0.3773  tool 
+-0.3782  improving 
+-0.4379  architecture 
+-0.4770  online 
+-0.4854  concept 
+-0.5110  multi 
+-0.5170  framework 
+-0.5196  model 
+-0.5482  similarity 
+-0.5752  structure 
+-0.6044  domain 
+-0.6698  management 
+-0.7185  adaptive 
+-0.7192  abstract 
+-0.7724  using 
+-0.8985  access 
+-0.9176  discovery 
+-0.9210  probabilistic 
+-0.9253  schema 
+-0.9642  dynamic 
+-1.0828  support 
+-1.1238  xml 
+-1.3008  performance 
+-1.3033  data 
+-1.3554  planning 
+-1.4089  mining 
+-1.4135  knowledge 
+-1.4242  method 
+-1.4534  clustering 
+-1.4634  query 
+-1.4792  classification 
+-1.5900  network 
+-1.8771  database 

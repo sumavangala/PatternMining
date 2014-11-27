@@ -1,0 +1,146 @@
+290  parallel 
+286  join 
+258  index 
+257  algorithm 
+238  network 
+220  dynamic 
+213  approach 
+209  memory 
+206  query database 
+199  scheduling 
+187  transaction 
+173  query optimization 
+166  file 
+165  spatial 
+165  structure 
+164  adaptive 
+159  multi 
+159  technique 
+151  real time 
+150  storage 
+147  environment 
+144  query data 
+136  sql 
+136  architecture 
+133  server 
+128  tree 
+125  motion 
+125  querying 
+120  recovery 
+118  image 
+115  complex 
+113  shape 
+112  data stream 
+111  multiple 
+110  xml query 
+109  aggregate 
+108  peer 
+107  update 
+107  control concurrency 
+106  data system 
+105  model 
+103  method 
+100  query system 
+94  optimizing 
+93  oriented object database 
+93  strategy 
+93  sensor 
+92  scalable 
+91  self 
+90  management system 
+90  management data 
+90  design 
+88  query evaluation 
+87  disk 
+86  analysis 
+85  data distributed 
+85  framework 
+85  query object 
+84  modeling 
+84  protocol 
+84  xml data 
+82  implementation 
+82  efficient data 
+82  indexing 
+82  using query 
+81  application 
+81  cost 
+81  execution 
+80  processor 
+79  processing data 
+79  range 
+77  scheme 
+76  supporting 
+75  stereo 
+75  load 
+75  caching 
+74  tracking 
+73  resource 
+73  relational database 
+72  nested 
+71  query distributed 
+70  surface 
+70  camera 
+70  heterogeneous 
+69  aggregation 
+69  detection 
+69  cache 
+68  data database 
+67  selection 
+67  temporal 
+67  processing database 
+66  top 
+66  locking 
+66  olap 
+66  fast 
+64  distributed system database 
+64  matching 
+64  estimation 
+63  efficient database 
+63  object system 
+62  management database 
+62  query answering 
+62  allocation 
+62  routing 
+62  processing system 
+61  processing distributed 
+61  constraint 
+61  query based 
+60  video 
+60  control database 
+60  multidimensional 
+60  query expansion 
+59  xpath 
+58  monitoring 
+57  performance database 
+57  mobile 
+57  processing stream 
+57  optimal 
+56  operation 
+56  efficient xml 
+56  size 
+56  recursive 
+56  query stream 
+56  warehouse data 
+55  query view 
+54  source 
+54  xquery 
+54  sharing 
+54  query continuous 
+54  computation 
+54  external 
+54  approximate 
+53  consistency 
+53  object moving 
+52  probabilistic 
+51  materialized view 
+51  organization 
+51  hash 
+51  shared 
+51  client 
+51  broadcast 
+50  integration 
+50  efficient query processing 
+50  reconstruction 
+50  replication 
+50  access data 

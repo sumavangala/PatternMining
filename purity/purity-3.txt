@@ -1,0 +1,183 @@
+0.5664  logic 
+0.5664  reasoning 
+0.5664  base 
+0.5664  program 
+0.5664  theory 
+0.5664  programming 
+0.5664  reinforcement 
+0.5664  solving 
+0.5664  action 
+0.5664  description 
+0.5664  belief 
+0.5664  maintenance 
+0.5664  game 
+0.5664  base data 
+0.5664  computer 
+0.5664  qualitative 
+0.5664  relation 
+0.5664  dependency 
+0.5664  semantics 
+0.5664  learning reinforcement 
+0.5664  knowledge system 
+0.5664  intelligence 
+0.5664  base knowledge 
+0.5664  inductive 
+0.5664  plan 
+0.5664  knowledge discovery 
+0.5664  logical 
+0.5664  diagnosis 
+0.5664  functional 
+0.5664  engineering 
+0.5664  integrating 
+0.5664  satisfaction 
+0.5664  issue 
+0.5664  programming logic 
+0.5664  representation knowledge 
+0.5664  program logic 
+0.5664  production 
+0.5664  design database 
+0.5664  deductive 
+0.5664  acquisition 
+0.5664  specification 
+0.5664  system expert 
+0.5664  formal 
+0.5664  satisfaction constraint 
+0.5664  artificial 
+0.5664  mapping 
+0.5664  panel 
+0.5664  abstraction 
+0.5664  physical 
+0.5664  based knowledge 
+0.5664  base system 
+0.5664  theorem 
+0.5664  practical 
+0.5664  perspective 
+0.5664  dbms 
+0.5664  goal 
+0.5664  type 
+0.5664  research 
+0.5664  integrity 
+0.5664  knowledge database 
+0.5664  mechanism 
+0.5664  calculus 
+0.5664  default 
+0.5664  model data 
+0.5664  intelligence artificial 
+0.5664  conceptual 
+0.5664  explanation 
+0.5664  revision 
+0.5664  resolution 
+0.5664  experience 
+0.5664  fault 
+0.5664  approach database 
+0.5664  propagation 
+0.5664  software 
+0.5664  incomplete 
+0.5664  representing 
+0.5664  proof 
+0.5664  computational 
+0.5664  application database 
+0.5664  abstract extended 
+0.5664  causal 
+0.5664  design system 
+0.5664  relational system 
+0.5664  fuzzy 
+0.5664  simulation 
+0.5664  business 
+0.5664  deductive database 
+0.5664  change 
+0.5664  algebra 
+0.5664  form 
+0.5664  role 
+0.5664  relational data 
+0.5664  model database 
+0.5664  language database 
+0.5664  proving 
+0.5664  property 
+0.5664  database discovery 
+0.5664  report 
+0.5664  hierarchy 
+0.4322  knowledge 
+0.4229  planning 
+0.3477  constraint 
+0.3315  design 
+0.3297  schema 
+0.2834  representation 
+0.2636  abstract 
+0.2179  domain 
+0.2097  relational 
+0.2060  temporal 
+0.1620  concept 
+0.1437  extended 
+0.1280  complexity 
+0.1185  relational database 
+0.1055  discovery 
+0.1016  tool 
+0.0961  expert 
+0.0925  level 
+0.0399  heuristic 
+0.0065  application 
+0.0037  framework 
+-0.0355  system 
+-0.0664  inference 
+-0.0808  implementation 
+-0.0841  approach 
+-0.0945  management system 
+-0.0953  integration 
+-0.0980  challenge 
+-0.0984  incremental 
+-0.1094  management 
+-0.1171  modeling 
+-0.1262  management database 
+-0.1615  technology 
+-0.1668  database 
+-0.1747  process 
+-0.1858  oriented 
+-0.1881  data system 
+-0.1890  decomposition 
+-0.1935  human 
+-0.2153  automated 
+-0.2247  heterogeneous 
+-0.2364  management data 
+-0.2573  oriented database 
+-0.2622  based system 
+-0.2826  world 
+-0.3012  oriented object 
+-0.3118  update 
+-0.3149  system database 
+-0.3219  intelligent 
+-0.3398  oriented object database 
+-0.3681  environment 
+-0.4003  towards 
+-0.4542  function 
+-0.4694  rule 
+-0.4745  object database 
+-0.4762  model 
+-0.4961  robot 
+-0.5082  model based 
+-0.5416  architecture 
+-0.5616  complex 
+-0.5619  technique 
+-0.5740  language 
+-0.6182  based 
+-0.6473  object 
+-0.6584  active 
+-0.6827  data 
+-0.6998  set 
+-0.7122  automatic 
+-0.7329  learning 
+-0.7847  structure 
+-0.7999  analysis 
+-0.8657  probabilistic 
+-0.8671  network 
+-0.9386  view 
+-0.9949  multiple 
+-1.0342  space 
+-1.0425  dynamic 
+-1.0776  machine 
+-1.1089  support 
+-1.1530  method 
+-1.3102  semantic 
+-1.3367  using 
+-1.7076  distributed 
+-1.7858  information 

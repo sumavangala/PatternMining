@@ -1,0 +1,183 @@
+1074  database 
+928  system 
+743  knowledge 
+558  learning 
+514  data 
+506  logic 
+493  reasoning 
+446  model 
+426  constraint 
+375  based 
+375  relational 
+339  design 
+339  approach 
+337  base 
+304  program 
+302  planning 
+297  theory 
+292  programming 
+284  application 
+263  representation 
+239  management 
+231  temporal 
+227  rule 
+227  language 
+224  reinforcement 
+223  object 
+204  schema 
+202  domain 
+202  discovery 
+199  abstract 
+195  system database 
+184  using 
+178  solving 
+163  oriented 
+162  action 
+154  concept 
+154  description 
+151  belief 
+151  maintenance 
+145  network 
+145  game 
+139  framework 
+138  base data 
+137  computer 
+135  qualitative 
+131  extended 
+129  relational database 
+128  relation 
+126  information 
+125  expert 
+125  dependency 
+122  semantics 
+117  learning reinforcement 
+115  knowledge system 
+114  intelligence 
+113  set 
+112  process 
+112  tool 
+112  modeling 
+111  inference 
+111  complexity 
+111  base knowledge 
+107  inductive 
+105  plan 
+104  knowledge discovery 
+104  logical 
+102  oriented object 
+102  diagnosis 
+101  analysis 
+97  functional 
+97  engineering 
+96  integrating 
+96  satisfaction 
+96  management system 
+95  environment 
+94  heuristic 
+94  data system 
+93  issue 
+93  integration 
+90  implementation 
+89  programming logic 
+89  representation knowledge 
+87  program logic 
+86  production 
+85  design database 
+85  deductive 
+84  towards 
+84  object database 
+83  automatic 
+82  acquisition 
+82  system expert 
+82  specification 
+82  level 
+81  formal 
+80  satisfaction constraint 
+80  based system 
+79  artificial 
+79  mapping 
+79  panel 
+78  abstraction 
+78  physical 
+77  view 
+76  based knowledge 
+76  update 
+76  technique 
+75  base system 
+75  oriented database 
+74  method 
+74  theorem 
+74  semantic 
+74  machine 
+73  practical 
+73  management data 
+73  perspective 
+73  dbms 
+71  goal 
+71  function 
+69  type 
+69  research 
+68  knowledge database 
+68  integrity 
+67  mechanism 
+67  architecture 
+66  calculus 
+66  default 
+66  incremental 
+66  model data 
+65  distributed 
+65  intelligence artificial 
+65  structure 
+64  robot 
+64  probabilistic 
+63  oriented object database 
+63  conceptual 
+63  automated 
+62  management database 
+62  explanation 
+62  resolution 
+62  experience 
+62  revision 
+62  active 
+61  fault 
+61  approach database 
+60  propagation 
+59  software 
+58  incomplete 
+58  representing 
+58  human 
+58  proof 
+58  heterogeneous 
+57  computational 
+57  application database 
+57  space 
+57  abstract extended 
+56  model based 
+56  causal 
+55  design system 
+55  dynamic 
+55  complex 
+55  intelligent 
+55  technology 
+55  relational system 
+54  fuzzy 
+54  simulation 
+54  business 
+53  deductive database 
+53  change 
+53  challenge 
+53  form 
+53  algebra 
+52  role 
+52  model database 
+52  relational data 
+52  language database 
+51  proving 
+51  property 
+51  database discovery 
+51  multiple 
+50  report 
+50  support 
+50  world 
+50  decomposition 
+50  hierarchy 
